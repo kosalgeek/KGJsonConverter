@@ -1,4 +1,4 @@
-# jsonconveter2genericlist
+# KGJSonConverter
 This is a library for Android to convert/parse JSON Text into a List/ArrayList of a Generic Class.
 
 #SETUP
