@@ -1,6 +1,8 @@
 # KGJSonConverter
 This is a library for Android to convert/parse JSON Text into a List/ArrayList of a Generic Class.
 
+###Now you can watch the tutorial of using this class on YouTube at https://www.youtube.com/watch?v=PRQvn__YkCM###
+
 #SETUP
 1. Download *KGJsonConverter.jar* into your machine > 
    Copy the file and paste into **app>libs**  of your project in Android Studio >
