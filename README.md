@@ -1,7 +1,9 @@
 # KGJSonConverter
 This is a library for Android to convert/parse JSON Text into a List/ArrayList of a Generic Class.
 
-###Now you can watch the tutorial of using this class on YouTube at https://www.youtube.com/watch?v=PRQvn__YkCM###
+### Now you can watch video tutorials of using this lib on YouTube at:
+* https://www.youtube.com/watch?v=PRQvn__YkCM and 
+* https://www.youtube.com/watch?v=T05kFxvPmk8
 
 #SETUP
 1. Download *KGJsonConverter.jar* into your machine > 
@@ -64,8 +66,9 @@ Toast.makeText(this, output, Toast.LENGTH_LONG).show();
  * Get more tutorials at http://www.kosalgeek.com and http://www.top12review.com
 
 # Donation
-### If you think this library have saved your life, please support me by donating just only $9.99.
-Donate $9.99 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=oumsaokosal01%40gmail%2ecom&lc=US&item_name=Oum%20Saokosal&item_number=donatedkosal&amount=9%2e99&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+#### If you think this library have saved your life, please support me by donating a few bucks, just for my coffee :)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=oumsaokosal01%40gmail%2ecom&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
